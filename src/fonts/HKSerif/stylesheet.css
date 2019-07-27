@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'HK Serif';
+	src: url('HKSerif-Regular.eot');
+	src: url('HKSerif-Regular.eot?#iefix') format('embedded-opentype'),
+		url('HKSerif-Regular.woff2') format('woff2'),
+		url('HKSerif-Regular.woff') format('woff'),
+		url('HKSerif-Regular.ttf') format('truetype'),
+		url('HKSerif-Regular.svg#HKSerif-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
